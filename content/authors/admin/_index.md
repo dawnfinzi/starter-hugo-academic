@@ -29,7 +29,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Psychology (Neuroscience area), PhD Minor in Computer Science
+    - course: PhD in Neuroscience (minor in Computer Science)
       institution: Stanford University
       #year: In p
     - course: MSc in Psychological Research
