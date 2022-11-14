@@ -26,15 +26,7 @@ publication_types: ['2']
 publication: In *Psychological Science*
 #publication_short: In *ICW*
 
-abstract: When rewards are available, people expend more energy, increasing their motivational vigor. In theory, incentives might drive behavior for two distinct reasons: First, they increase expected reward; second, they increase the difference in subjective value between successful and unsuccessful performance, which increases contingency—the degree to
-which action determines outcome. Previous studies of motivational vigor have never compared these directly. Here,
-we indexed motivational vigor by measuring the speed of eye movements toward a target after participants heard
-a cue indicating how outcomes would be determined. Eye movements were faster when the cue indicated that
-monetary rewards would be contingent on performance than when the cue indicated that rewards would be random.
-But even when the cue indicated that a reward was guaranteed regardless of speed, movement was still faster than
-when no reward was available. Motivation by contingent and certain rewards was uncorrelated across individuals,
-which suggests that there are two separable, independent components of motivation. Contingent motivation generated
-autonomic arousal, and unlike noncontingent motivation, was effective with penalties as well as rewards.
+abstract: When rewards are available, people expend more energy, increasing their motivational vigor. In theory incentives might drive behavior for two distinct reasons- First, they increase expected reward; second, they increase the difference in subjective value between successful and unsuccessful performance, which increases contingency—the degree to which action determines outcome. Previous studies of motivational vigor have never compared these directly. Here, we indexed motivational vigor by measuring the speed of eye movements toward a target after participants heard a cue indicating how outcomes would be determined. Eye movements were faster when the cue indicated that monetary rewards would be contingent on performance than when the cue indicated that rewards would be random. But even when the cue indicated that a reward was guaranteed regardless of speed, movement was still faster than when no reward was available. Motivation by contingent and certain rewards was uncorrelated across individuals, which suggests that there are two separable, independent components of motivation. Contingent motivation generated autonomic arousal, and unlike noncontingent motivation, was effective with penalties as well as rewards.
 
 tags: [motivation, rewards, eye tracking]
 

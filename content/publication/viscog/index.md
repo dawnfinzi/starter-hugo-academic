@@ -1,23 +1,21 @@
 ---
-title: 'Differential spatial computations in ventral and lateral face-selective regions are scaffolded by structural connections'
+title: 'The role of holistic face processing in acquired prosopagnosia: evidence from the composite face effect'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Jesse Gomez
-  - Marisa Nordt
-  - Alex A. Rezai
-  - Sonia Poltoratski
-  - Kalanit Grill-Spector
+  - Tirta Susilo
+  - Jason J. S. Barton
+  - Bradley C. Duchaine
 
 # # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2021-04-15T00:00:00Z'
+date: '2016-06-30T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -30,15 +28,15 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Nature Communications*
+publication: In *Visual Cognition*
 #publication_short: In *ICW*
 
-abstract: Face-processing occurs across ventral and lateral visual streams, which are involved in static and dynamic face perception, respectively. However, the nature of spatial computations across streams is unknown. Using functional MRI and population receptive field (pRF) mapping, we measured pRFs in face-selective regions. Results reveal that spatial computations by pRFs in ventral face-selective regions are concentrated around the center of gaze (fovea), but spatial computations in lateral face-selective regions extend peripherally. Diffusion MRI reveals that these differences are mirrored by a preponderance of white matter connections between ventral face-selective regions and foveal early visual cortex (EVC), while connections with lateral regions are distributed more uniformly across EVC eccentricities. These findings suggest a rethinking of spatial computations in face-selective regions, showing that they vary across ventral and lateral streams, and further propose that spatial computations in high-level regions are scaffolded by the fine-grain pattern of white matter connections from EVC.
+abstract: Faces are processed more holistically than other objects, and it has been suggested that the loss of holistic face processing causes acquired prosopagnosia. Support for this hypothesis comes from several cases who failed to show holistic face effects as well as the absence of reports of prosopagnosics with unequivocally normal holistic face perception. The current study examines the relationship between holistic face processing and prosopagnosia by testing seven acquired prosopagnosics with the face composite task, a classic measure of holistic face processing. To enhance the robustness of the findings, each prosopagnosic was tested with two versions of the composite task showing upright faces. We also tested an inverted condition to exclude the possibility that more general factors account for composite effects for upright faces. Four of the seven acquired prosopagnosic participants showed consistent upright face composite effects with minimal inverted face composite effects. We conclude that severe face processing deficits can co-occur with intact holistic face processing and that factors other than a loss of holistic processing contribute to the perceptual and recognition deficits in acquired prosopagnosia.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [face perception, lesion studies, holistic perception]
 
 # Display this page in the Featured widget?
 featured: false
@@ -49,7 +47,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/VPNL/fibeRFs'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
