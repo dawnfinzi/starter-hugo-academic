@@ -25,8 +25,8 @@ experience:
   - title: AI Resident
     company: X, the Moonshot Factory (formerly Google X)
     company_url: 'https://x.company/'
-    date_start: '2021-05'
-    date_end: '2021-09'
+    date_start: '2021-05-01'
+    date_end: '2021-09-24'
 
 design:
   columns: '2'
