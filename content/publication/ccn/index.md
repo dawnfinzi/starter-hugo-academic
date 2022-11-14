@@ -11,7 +11,7 @@ authors:
   - Kendrick Kay
   - Kalanit Grill-Spector
 
-date: '2021-04-15T00:00:00Z'
+date: '2022-08-27T00:00:00Z'
 doi: '10.32470/CCN.2022.1219-0'
 
 # Schedule page publish date (NOT publication's date).

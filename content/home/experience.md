@@ -25,8 +25,6 @@ experience:
   - title: AI Resident
     company: X, the Moonshot Factory (formerly Google X)
     company_url: 'https://x.company/'
-    #company_logo: org-gc
-    #location: California
     date_start: '2021-05'
     date_end: '2021-09'
 
