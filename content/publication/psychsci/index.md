@@ -44,7 +44,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://openreview.net/forum?id=E1iY-d13smd'
+url_source: ''
 url_video: ''
 
 # Featured image
