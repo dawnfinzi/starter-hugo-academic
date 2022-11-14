@@ -24,9 +24,15 @@ date_format: Jan 2006
 experience:
   - title: AI Resident
     company: X, the Moonshot Factory (formerly Google X)
+    location: California
     company_url: 'https://x.company/'
     date_start: '2021-05-01'
     date_end: '2021-09-24'
+  - title: PhD Student
+    company: Stanford University
+    location: California
+    date_start: '2017-09-01'
+    date_end: ''
 
 design:
   columns: '2'
