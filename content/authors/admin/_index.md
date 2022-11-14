@@ -77,6 +77,6 @@ email: 'dfinzi@stanford.edu'
 highlight_name: true
 ---
 
-I am a PhD student at Stanford University studying computational neuroscience. I study the functional organization of human visual system, focusing on both the structural underpinnings and the overarching computational goals. Over the last few years, I have been working on using deep neural network models to understand why the visual system is organized the way it is and what we need to build into our models in order to provide a better match to the brain.
+I am a PhD student at Stanford University studying computational neuroscience. I study the functional organization of the human visual system, focusing on both the structural underpinnings and the overarching computational goals. Over the last few years, I have been working on using deep neural network models to understand why the visual system is organized the way it is and what we need to build into our models in order to provide a better match to the brain.
 
 <!-- {< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé {{< /staticref >}}. -->
