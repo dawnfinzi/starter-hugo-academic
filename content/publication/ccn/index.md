@@ -32,7 +32,7 @@ abstract: While primate visual cortex has typically been divided into two proces
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [processing streams, vision, neuroscience, fMRI, convolutional neural networks]
 
 # Display this page in the Featured widget?
 featured: false
